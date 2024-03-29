@@ -68,6 +68,10 @@ Prioritized level replay z dodaniem mutowania starych środowisk od dużym regre
 ## [Japońskie alternatyne liczenie regretu w Paired](https://www.jstage.jst.go.jp/article/pjsai/JSAI2023/0/JSAI2023_3E1GS201/_pdf)
 
 
+## [EUREKA: HUMAN-LEVEL REWARD DESIGN VIA CODING LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2310.12931.pdf)
+
+Używanie LLMów do generowania struktury nagród. Podajemy kod środowiska i opis zadania do LLMa. LLm proponuje funkcje nagrody sprawdzana jest w środowisku, potem sprawdzane jest jak dobra ta nagroda została dobrana i znów wrzucane jest wszystko do llma
+
 ## Może interesujące Do wczytania się jeszcze
 
 ### https://proceedings.neurips.cc/paper_files/paper/2022/file/f649556471416b35e60ae0de7c1e3619-Paper-Conference.pdf
@@ -85,6 +89,13 @@ Wydaje się że to jakaś inna ściezka ale trzebaby się wczytać, wygląda na 
 
 ### Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions https://arxiv.org/abs/1901.01753.pdf
 --------------------------------------------
-https://scholar.google.pl/scholar?start=30&hl=pl&as_sdt=2005&sciodt=0,5&cites=5291399435373033204&scipsc=
-https://arxiv.org/pdf/2003.04664.pdf
-https://arxiv.org/pdf/2010.13166.pdf
+https://scholar.google.pl/scholar?start=30&hl=pl&as_sdt=2005&sciodt=0,5&cites=5291399435373033204&scipsc=\
+https://arxiv.org/pdf/2003.04664.pdf\
+https://arxiv.org/pdf/2010.13166.pdf\
+https://arxiv.org/pdf/2306.08647.pdf\
+https://scholar.google.com/scholar?cites=3200512419935847312&as_sdt=2005&sciodt=0,5&hl=pl\
+tree of thoughts: https://openreview.net/attachment?id=5Xc1ecxO1h&name=pdf
+graph of thoughts: https://arxiv.org/pdf/2308.09687.pdf
+https://arxiv.org/pdf/2312.03126.pdf
+https://sites.google.com/view/ucb-drac
+https://arxiv.org/pdf/2207.05219.pdf
