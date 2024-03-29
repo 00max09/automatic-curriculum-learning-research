@@ -1,23 +1,16 @@
-## [NETHACK](https://arxiv.org/abs/2006.13760) 
+# UŻYWALNE ŚRODOWISKA
 
-Wielopoziomowy proceduralnie generowany dungeon crawler. Bardzo dużo różnorodnych przeciwników, efektów, przedmiotów i statystyk. Celem jest dojście do najniższego poziomu zdobycie amuletu a potem ucieknięcie z dungeonu. Wynikiem może być wiele różnych rzeczy np wewnętrzny wynik gry czy ilość zdobytego złota
+## [MINIHACK]()
+
+uproszczony [nethack](#nethack), bardziej zasobo oszczędny
 
 ## [BOXWORLD](https://arxiv.org/abs/1806.01830)
 
 Mapa 12x12 z kluczami i skrzynkami rozłożonymi w losowych miejscach, klucze otwierają skrzynki, celem jest znalezienie klejnotu który znajduje się w ktorejś skrzynce, ma jakiś potencjał na parametryzacje chociaż imo zbyt łatwo określić kolejność trudności zadań
 
-## [DEEPMIND LAB](https://github.com/deepmind/lab#upstream-sources)
-
-Srodowisko zbudowane z użyciem silnika quake'a wiele różnych zadań, z interesujących :
-
--  Proceduralnie generowany labirynt
--  Laser tag - walka z przeciwnikami używając lasera, celem zabicie jak największej ilości wrogów
-
-
 ## [MAZE]
 
 Prosty Labirynt, całkiem dobry sprawdzający env, trochę jednak basic
-
 
 ## MULTICAR RACING
 
@@ -27,10 +20,18 @@ Srodowisko posiadające mapę i narysowaną na niej trasę, celem jest przejecha
     Trackmania może być pewnym rozszerzeniem tego konceptu szczególnie z dodaniem trzeciego wymiaru i mozliwości tworzenia tras które mają wiele rozgałęzień czy pewne modyfikatory
 ---
 
-## Bomberman
+# NIEZBYT UŻYWALNE ŚRODOWISKA / POSIADAJĄCE LEPSZE LUB MNIEJ ZASOBOŻERNE ALTERNATYWY
 
-Możemy wziąć proceduralnie generowane mapy, z proceduralnie generowanymi przeciwnikami, można dodać jakieś powerupy aby zróznicować rozgrywkę
+## [NETHACK](https://arxiv.org/abs/2006.13760) 
 
+Wielopoziomowy proceduralnie generowany dungeon crawler. Bardzo dużo różnorodnych przeciwników, efektów, przedmiotów i statystyk. Celem jest dojście do najniższego poziomu zdobycie amuletu a potem ucieknięcie z dungeonu. Wynikiem może być wiele różnych rzeczy np wewnętrzny wynik gry czy ilość zdobytego złota
+
+## [DEEPMIND LAB](https://github.com/deepmind/lab#upstream-sources)
+
+Srodowisko zbudowane z użyciem silnika quake'a wiele różnych zadań, z interesujących :
+
+-  Proceduralnie generowany labirynt
+-  Laser tag - walka z przeciwnikami używając lasera, celem zabicie jak największej ilości wrogów
 
 ## Pixel dungeon czy Issac
 
@@ -40,9 +41,10 @@ Może coś takiego, trochę nethack case
 
 Może też
 
+
 ## [Avalon](https://arxiv.org/pdf/2210.13417.pdf)
 
-Surwiwal w 3d z generowaną proceduralnie mapą
+Surviwal w 3d z generowaną proceduralnie mapą
 
 ## [Procgen Benchmark](https://arxiv.org/pdf/1912.01588.pdf)
 
@@ -54,6 +56,20 @@ Być może interesujące
  i sporo innych
 
 ### Niestety nie ma możliwości ustawiania parametrów więc trzeba byłoby ostro modyfikować
+
+# COMPETETIVE
+
+## Bomberman
+
+Możemy wziąć proceduralnie generowane mapy, z proceduralnie generowanymi przeciwnikami, można dodać jakieś powerupy aby zróznicować rozgrywkę
+
+
+
+
+
+
+
+
 
 ## [Sokoban, Rubik, INT](https://arxiv.org/pdf/2206.00702.pdf)
 
@@ -147,3 +163,6 @@ Podobna klasa enva do home navigation z dodaną fizyką,
 
 
 ## [Bipedal Walker]
+
+
+## Boulder Dash
