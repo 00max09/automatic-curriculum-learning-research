@@ -99,3 +99,4 @@ graph of thoughts: https://arxiv.org/pdf/2308.09687.pdf
 https://arxiv.org/pdf/2312.03126.pdf
 https://sites.google.com/view/ucb-drac
 https://arxiv.org/pdf/2207.05219.pdf
+https://arxiv.org/pdf/2303.06689.pdf
