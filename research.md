@@ -88,6 +88,12 @@ Wydaje się że to jakaś inna ściezka ale trzebaby się wczytać, wygląda na 
 
 
 ### Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions https://arxiv.org/abs/1901.01753.pdf
+
+## [Refining Minimax Regret for Unsupervised Environment Design](https://arxiv.org/pdf/2402.12284)
+
+## [STABILIZING UNSUPERVISED ENVIRONMENT DESIGN WITH A LEARNED ADVERSARY](https://arxiv.org/pdf/2308.10797)
+
+Analiza m.im PAIRED, możliwe że giga ciekawe
 --------------------------------------------
 https://scholar.google.pl/scholar?start=30&hl=pl&as_sdt=2005&sciodt=0,5&cites=5291399435373033204&scipsc=\
 https://arxiv.org/pdf/2003.04664.pdf\
@@ -100,3 +106,6 @@ https://arxiv.org/pdf/2312.03126.pdf
 https://sites.google.com/view/ucb-drac
 https://arxiv.org/pdf/2207.05219.pdf
 https://arxiv.org/pdf/2303.06689.pdf
+
+----
+https://arxiv.org/pdf/2306.09205v2
