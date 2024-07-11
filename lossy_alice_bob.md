@@ -19,3 +19,7 @@ r_alice = 1-r_bob
 r_ued = |alpha-r_alice|
 
 tested alpha 0.5 (very good start sudden fall, maybe good to do some pre learning)
+
+
+## Usunięcie dodatkowej entropii potrzebenej w paired. 
+

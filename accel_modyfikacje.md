@@ -44,3 +44,21 @@ To może być bardzo trudne do uzyskania, ale możemy próbować nauczyć jakiś
 Kręcenie się pomiędzy różnymi lossami
 
 ### Różne inne kombinacje/nowe lossy jeszcze będe myślał...
+
+# NEW
+## Parametryzacja środowiska
+
+Nauczenie generatora jakiś parametrów środowiska i potem generowanie zgodne z tymi parametrami
+
+
+## Prepaired + PLR
+
+PLR bardzo słabo uczy się w początkowej fazie zapełniania bufora, może można tą fazę poprawić i wkleić w tą fazę inny algorytm który nie potrzebuje 'rozgrzewki'
+
+## Model do przesiewania poziomów
+
+Jakość poziomów jest bardzo różna może można wprowadzić jakiś model podpinający agenta do gradientu tylko na użytecznych poziomach (a być może od pewnego momentu wgl pomijając niektóre poziomy)
+
+## Generacja x * batch poziomów i wybór tych najlepszych
+
+Jeśli generowanie poziomów nie wiąże się z jakimś gigantycznym kosztem to może da się wybierać, najprawdopodobniej jakimś modelem, poziomy które nie będą psuły nam sygnału
